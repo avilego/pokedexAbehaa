@@ -1,8 +1,3 @@
-# React Native Pokédex App
-
-## Demo
-
-![Pokedex Abehaa](./docs/pokedex-app.gif)
 
 ## About the project
 
